@@ -1,7 +1,0 @@
-- name: Flake8 Jupyter Notebook
-  # You may pin to the exact commit or the version.
-  # uses: mhitza/flake8-jupyter-notebook@0839c4e7de7ebdc6f2e91bb26743c1b6bf997059
-  uses: mhitza/flake8-jupyter-notebook@v1.0.5
-  with:
-    # Dump debug information
-    debug: # optional
