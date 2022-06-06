@@ -1,4 +1,4 @@
-# Task_1
+# Task - 1 [Assignment]
 
 ## Table of contents
 * [General info](#general-info)
